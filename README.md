@@ -2,16 +2,39 @@
 
 This project demonstrates a basic distance detection system utilizing an Arduino UNO. An ultrasonic sensor measures the proximity of surrounding objects and transmits the data to the Arduino UNO, which then processes the information and activates a buzzer to audibly indicate the detected distance.
 
-Clone this repository to your local machine:
+# Installation
 
-git clone https://github.com/HariKrishna-02/Car-Parking-Distance-Detection
+1.Clone this repository to your local machine:
 
-Install the required, Arduino IDE app.
+ git clone https://github.com/HariKrishna-02/Car-Parking-Distance-Detection
 
-Ensure you have the following files in your project folder:
+2.Install the required, Arduino IDE app.
 
+3.Ensure you have the following files in your project folder:
 
+Car_Distance_Detection_Attachment.jpg
 
-Contributing:
+Car_Distance_Detection_Components.jpeg
+
+Car_Parking_Distance_Detection_code
+
+# Materials Required
+
+1. Arduino UNO
+2. HC-SR04 Ultrasonic Sensor
+3. Buzzer
+4. Led
+5. 220K ohm resistor
+6 Bread Board
+
+# Files and Folders
+
+Car_Distance_Detection_Components.jpeg: Image of the components present.
+
+Car_Distance_Detection_Attachment.jpg: The circuit build by the help of the components.
+
+Car_Parking_Distance_Detection_code: Script for processing the video and detecting the distance
+
+# Contributing:
 
 We welcome contributions to this project! If you have suggestions, improvements, or bug fixes, please submit a pull request. You're also encouraged to open issues for discussions or to propose new features.
