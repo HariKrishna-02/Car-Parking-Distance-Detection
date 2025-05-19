@@ -16,6 +16,8 @@ Car_Distance_Detection_Attachment.jpg
 
 Car_Distance_Detection_Components.jpeg
 
+Car_Parking_Distance_Detection_CircuitDiagram.jpeg
+
 Car_Parking_Distance_Detection_OutputVideo.mp4
 
 Car_Parking_Distance_Detection_code
@@ -34,6 +36,8 @@ Car_Parking_Distance_Detection_code
 Car_Distance_Detection_Components.jpeg: Image of the components present.
 
 Car_Distance_Detection_Attachment.jpg: The circuit build by the help of the components.
+
+Car_Parking_Distance_Detection_CircuitDiagram.jpeg: The circuit diagram shows the Arduino Uno connected to an ultrasonic sensor, buzzer, and LED to detect distance and provide audio-visual alerts.
 
 Car_Parking_Distance_Detection_code: Script for processing the video and detecting the distance
 
