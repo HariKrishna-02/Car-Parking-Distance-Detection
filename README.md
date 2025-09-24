@@ -1,4 +1,5 @@
 # Car-Parking-Distance-Detection
+
 This project demonstrates a basic distance detection system utilizing an Arduino UNO. An ultrasonic sensor measures the proximity of surrounding objects and transmits the data to the Arduino UNO, which then processes the information and activates a buzzer to audibly indicate the detected distance.
 
 # Installation
